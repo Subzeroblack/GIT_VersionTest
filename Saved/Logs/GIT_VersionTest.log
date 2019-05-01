@@ -775,3 +775,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.58.19:923][276]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
 [2019.05.01-05.58.19:923][276]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.108
 [2019.05.01-05.58.41:090][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-06.01.02:334][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-06.01.02:462][427]LogAIModule: Creating AISystem for world TestMap
+[2019.05.01-06.01.02:471][427]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/TestMap.TestMap
+[2019.05.01-06.01.02:513][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.05.01-06.01.02:514][427]Cmd: MAP LOAD FILE="C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Content/ThirdPersonBP/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-06.01.02:515][427]LightingResults: New page: Lighting Build
+[2019.05.01-06.01.02:515][427]LoadErrors: New page: Loading map: TestMap.umap
+[2019.05.01-06.01.02:516][427]MapCheck: New page: Map Check
+[2019.05.01-06.01.02:516][427]LightingResults: New page: Lighting Build
+[2019.05.01-06.01.02:558][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.05.01-06.01.02:561][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-06.01.02:603][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.05.01-06.01.02:623][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-06.01.02:624][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2019.05.01-06.01.02:624][427]LogFileHelpers: Loading map 'TestMap' took 0.110
+[2019.05.01-06.01.05:624][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-06.01.11:831][424]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.01-06.01.13:202][563]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.01-06.01.18:269][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-06.01.21:966][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.01-06.01.25:118][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-06.01.27:057][826]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.01-06.01.29:547][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-06.01.30:426][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-06.01.30:492][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-06.01.30:545][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.05.01-06.01.31:237][171]LogSavePackage: Moving 'C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Saved/TestMap5CA66F824B823671BAF987B18B54F298.tmp' to 'C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Content/ThirdPersonBP/Maps/TestMap.umap'
+[2019.05.01-06.01.31:281][171]LogFileHelpers: Saving map 'TestMap' took 0.783
+[2019.05.01-06.01.31:367][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-06.01.32:471][295]SourceControl: fatal: F:/Unreal/UE_4.22/Engine/Content: 'F:/Unreal/UE_4.22/Engine/Content' is outside repository
+[2019.05.01-06.01.32:564][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-06.01.41:544][295]LogSlate: Window 'Submit Files' being destroyed
+[2019.05.01-06.01.41:553][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-06.01.41:631][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-06.01.41:859][295]LogSourceControl: commit successful: [DevonBranch 1894d1a] added sphere to test map
+[2019.05.01-06.01.41:915][295]SourceControl: [DevonBranch 1894d1a] added sphere to test map
+[2019.05.01-06.01.41:915][295]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.05.01-06.01.41:921][295]SourceControl: Commited [DevonBranch 1894d1a] added sphere to test map.
