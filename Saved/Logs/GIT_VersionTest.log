@@ -2430,3 +2430,4 @@ Script Stack (0 frames):
 [2019.05.01-05.09.27:809][142]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2019.05.01-05.09.27:809][142]SourceControl:  create mode 100644 Content/Blueprints/BP_Actor3.uasset
 [2019.05.01-05.09.27:865][142]SourceControl: Commited [Jake-Branch 68cc094] BP_Actor3.
+[2019.05.01-05.18.32:910][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
