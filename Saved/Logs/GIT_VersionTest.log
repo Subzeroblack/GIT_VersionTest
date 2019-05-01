@@ -889,3 +889,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.11.31:475][719]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2019.05.01-05.11.31:475][719]SourceControl:  create mode 100644 Content/Devon_Other_Folder/daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d.uasset
 [2019.05.01-05.11.31:481][719]SourceControl: Commited [DevonBranch 05f04d0] added another folder with picture.
+[2019.05.01-05.14.58:497][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.05.01-05.15.00:397][445]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.01-05.15.00:499][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.05.01-05.15.03:129][749]SourceControl: fatal: F:/Unreal/UE_4.22/Engine/Content: 'F:/Unreal/UE_4.22/Engine/Content' is outside repository
+[2019.05.01-05.15.03:218][749]EditorErrors: Warning: No assets to check in!
+[2019.05.01-05.15.47:555][898]SourceControl: fatal: F:/Unreal/UE_4.22/Engine/Content: 'F:/Unreal/UE_4.22/Engine/Content' is outside repository
+[2019.05.01-05.15.47:643][898]EditorErrors: Warning: No assets to check in!
