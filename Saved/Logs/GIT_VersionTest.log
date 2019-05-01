@@ -926,3 +926,129 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.37.44:306][708]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.05.01-05.37.44:306][708]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
 [2019.05.01-05.37.44:307][708]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.286
+[2019.05.01-05.41.15:602][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.16:806][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.17:268][206]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.01-05.41.23:509][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.23:910][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.26:733][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.29:268][431]LogSlate: Window 'Plugins' being destroyed
+[2019.05.01-05.41.29:319][431]LogSlate: Window 'Plugins' being destroyed
+[2019.05.01-05.41.29:319][431]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.05.01-05.44.49:117][409]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.01-05.48.22:347][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorMeshes/ColorCalibrator: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorMeshes/ColorCalibrator' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository
+[2019.05.01-05.48.35:340][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset' is outside repository
+[2019.05.01-05.48.35:701][112]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2019.05.01-05.48.35:701][112]SourceControl: Error: error: please commit or stash them.
+[2019.05.01-05.48.35:758][112]LogContentBrowser: Syncing 1 path(s):
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonWalk
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonRun
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonIdle
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonJump_Start
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonJump_Loop
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPerson_Jump
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Basic_Floor
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/StarterContent/Architecture/Floor_400x400
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPerson_AnimBP
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Textures/UE4_LOGO_CARD
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Textures/UE4_Mannequin__normals
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/M_UE4Man_Body
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Textures/UE4Man_Logo_N
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Mannequin/Character/Mesh/SK_Mannequin
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Geometry/Meshes/CubeMaterial
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Geometry/Meshes/1M_Cube
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Geometry/Meshes/1M_Cube_Chamfer
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/Geometry/Meshes/TemplateFloor
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/RampMaterial
+[2019.05.01-05.48.35:758][112]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/Bump_StaticMesh
+[2019.05.01-05.48.35:759][112]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/LeftArm_StaticMesh
+[2019.05.01-05.48.35:759][112]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh
+[2019.05.01-05.48.35:759][112]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/Ramp_StaticMesh
+[2019.05.01-05.48.35:759][112]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/RightArm_StaticMesh
+[2019.05.01-05.48.35:759][112]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2019.05.01-05.48.35:759][112]LightingResults: New page: Lighting Build
+[2019.05.01-05.48.35:762][112]MapCheck: New page: Map Check
+[2019.05.01-05.48.35:762][112]LightingResults: New page: Lighting Build
+[2019.05.01-05.48.35:790][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.05.01-05.48.35:792][112]LogAIModule: Creating AISystem for world Untitled
+[2019.05.01-05.48.35:940][112]LoadErrors: New page: New Map
+[2019.05.01-05.48.35:942][112]LogUObjectGlobals: Reloading 38 Package(s):
+	Asset Name: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonIdle
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonRun
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonWalk
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Start
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Loop
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_Jump
+	Asset Name: /Game/StarterContent/Materials/M_Basic_Floor
+	Asset Name: /Game/StarterContent/Architecture/Floor_400x400
+[2019.05.01-05.48.36:035][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.05.01-05.48.36:103][112]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.05.01-05.48.36:111][112]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.05.01-05.48.36:324][112]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2019.05.01-05.48.36:491][112]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.05.01-05.48.36:577][112]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Mannequin/Character/Mesh/SK_Mannequin_DEADPACKAGE_29.SK_Mannequin
+[2019.05.01-05.48.36:725][112]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.05.01-05.48.36:819][112]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Mannequin/Character/Mesh/SK_Mannequin_DEADPACKAGE_29.SK_Mannequin
+[2019.05.01-05.48.36:838][112]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.05.01-05.48.36:920][112]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Mannequin/Character/Mesh/SK_Mannequin_DEADPACKAGE_29.SK_Mannequin
+[2019.05.01-05.48.36:931][112]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.05.01-05.48.37:013][112]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Mannequin/Character/Mesh/SK_Mannequin_DEADPACKAGE_29.SK_Mannequin
+[2019.05.01-05.48.37:051][112]LogStaticMesh: Building static mesh 1M_Cube...
+[2019.05.01-05.48.37:053][112]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/1M_Cube_DEADPACKAGE_32.1M_Cube
+[2019.05.01-05.48.37:057][112]LogStaticMesh: Building static mesh 1M_Cube_Chamfer...
+[2019.05.01-05.48.37:066][112]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/1M_Cube_Chamfer_DEADPACKAGE_33.1M_Cube_Chamfer
+[2019.05.01-05.48.37:068][112]LogStaticMesh: Building static mesh TemplateFloor...
+[2019.05.01-05.48.37:077][112]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/TemplateFloor_DEADPACKAGE_34.TemplateFloor
+[2019.05.01-05.48.37:079][112]LogStaticMesh: Building static mesh Bump_StaticMesh...
+[2019.05.01-05.48.37:081][112]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/Bump_StaticMesh_DEADPACKAGE_36.Bump_StaticMesh
+[2019.05.01-05.48.37:082][112]LogStaticMesh: Building static mesh LeftArm_StaticMesh...
+[2019.05.01-05.48.37:086][112]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/LeftArm_StaticMesh_DEADPACKAGE_37.LeftArm_StaticMesh
+[2019.05.01-05.48.37:087][112]LogStaticMesh: Building static mesh Linear_Stair_StaticMesh...
+[2019.05.01-05.48.37:091][112]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh_DEADPACKAGE_38.Linear_Stair_StaticMesh
+[2019.05.01-05.48.37:092][112]LogStaticMesh: Building static mesh Ramp_StaticMesh...
+[2019.05.01-05.48.37:096][112]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/Ramp_StaticMesh_DEADPACKAGE_39.Ramp_StaticMesh
+[2019.05.01-05.48.37:097][112]LogStaticMesh: Building static mesh RightArm_StaticMesh...
+[2019.05.01-05.48.37:100][112]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/RightArm_StaticMesh_DEADPACKAGE_40.RightArm_StaticMesh
+[2019.05.01-05.48.37:160][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.05.01-05.48.37:293][112]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.48.37:354][112]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.48.37:375][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.05.01-05.48.37:376][112]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.48.37:376][112]LightingResults: New page: Lighting Build
+[2019.05.01-05.48.37:377][112]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.48.37:378][112]MapCheck: New page: Map Check
+[2019.05.01-05.48.37:378][112]LightingResults: New page: Lighting Build
+[2019.05.01-05.48.37:402][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.05.01-05.48.37:666][112]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.48.37:689][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.05.01-05.48.37:711][112]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.48.37:711][112]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.05.01-05.48.37:712][112]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.337
