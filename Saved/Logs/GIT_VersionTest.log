@@ -855,3 +855,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.28.18:396][686]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.05.01-05.28.18:396][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
 [2019.05.01-05.28.18:397][686]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.213
+[2019.05.01-05.31.24:963][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-05.31.28:318][963]LogSlate: Window 'Plugins' being destroyed
+[2019.05.01-05.31.28:381][963]LogSlate: Window 'Plugins' being destroyed
+[2019.05.01-05.31.28:381][963]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.05.01-05.31.42:557][533]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.31.42:577][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.05.01-05.31.42:578][533]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.31.42:578][533]LightingResults: New page: Lighting Build
+[2019.05.01-05.31.42:579][533]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.31.42:580][533]MapCheck: New page: Map Check
+[2019.05.01-05.31.42:580][533]LightingResults: New page: Lighting Build
+[2019.05.01-05.31.42:606][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.05.01-05.31.42:630][533]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.31.42:802][533]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.31.42:829][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.05.01-05.31.42:853][533]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.31.42:853][533]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2019.05.01-05.31.42:854][533]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.277
