@@ -867,3 +867,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.35.27:940][978]LogSlate: Window 'Source Control Login' being destroyed
 [2019.05.01-05.36.04:531][161]LogSlate: Window 'Source Control Login' being destroyed
 [2019.05.01-05.36.29:319][893]LogSlate: Window 'Source Control Login' being destroyed
+[2019.05.01-05.37.23:046][615]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.37.23:066][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.05.01-05.37.23:068][615]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.37.23:068][615]LightingResults: New page: Lighting Build
+[2019.05.01-05.37.23:068][615]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.37.23:069][615]MapCheck: New page: Map Check
+[2019.05.01-05.37.23:069][615]LightingResults: New page: Lighting Build
+[2019.05.01-05.37.23:092][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.05.01-05.37.23:116][615]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.37.23:249][615]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.37.23:272][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.05.01-05.37.23:292][615]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.37.23:292][615]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2019.05.01-05.37.23:293][615]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.227
+[2019.05.01-05.37.28:979][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-05.37.29:153][263]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.37.29:172][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.05.01-05.37.29:173][263]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.37.29:173][263]LightingResults: New page: Lighting Build
+[2019.05.01-05.37.29:174][263]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.37.29:177][263]MapCheck: New page: Map Check
+[2019.05.01-05.37.29:177][263]LightingResults: New page: Lighting Build
+[2019.05.01-05.37.29:200][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.05.01-05.37.29:225][263]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.37.29:387][263]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.37.29:414][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.05.01-05.37.29:435][263]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.37.29:435][263]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.05.01-05.37.29:436][263]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.265
+[2019.05.01-05.37.40:934][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.37.42:276][575]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-05.37.42:331][575]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.37.42:338][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.37.42:396][575]LightingResults: New page: Lighting Build
+[2019.05.01-05.37.42:397][575]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.05.01-05.37.42:398][575]MapCheck: New page: Map Check
+[2019.05.01-05.37.42:398][575]LightingResults: New page: Lighting Build
+[2019.05.01-05.37.42:425][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.05.01-05.37.42:447][575]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.01-05.37.42:580][575]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.37.42:602][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.05.01-05.37.42:656][575]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.37.42:656][575]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2019.05.01-05.37.42:657][575]LogFileHelpers: Loading map 'Template_Default' took 0.326
+[2019.05.01-05.37.43:751][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-05.37.43:975][708]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.37.43:998][708]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.37.44:020][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.05.01-05.37.44:021][708]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.37.44:021][708]LightingResults: New page: Lighting Build
+[2019.05.01-05.37.44:022][708]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.37.44:022][708]MapCheck: New page: Map Check
+[2019.05.01-05.37.44:022][708]LightingResults: New page: Lighting Build
+[2019.05.01-05.37.44:045][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.05.01-05.37.44:261][708]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.05.01-05.37.44:283][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.05.01-05.37.44:306][708]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.37.44:306][708]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2019.05.01-05.37.44:307][708]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.286
