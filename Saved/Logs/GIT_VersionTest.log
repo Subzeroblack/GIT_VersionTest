@@ -598,3 +598,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.52.52:910][754]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.05.01-05.52.52:910][754]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
 [2019.05.01-05.52.52:911][754]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.196
+[2019.05.01-05.53.10:583][292]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.53.10:603][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.05.01-05.53.10:604][292]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.53.10:605][292]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.10:605][292]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.53.10:606][292]MapCheck: New page: Map Check
+[2019.05.01-05.53.10:606][292]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.10:626][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.05.01-05.53.10:650][292]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.53.10:814][292]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.53.10:837][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.05.01-05.53.10:858][292]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.53.10:858][292]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.05.01-05.53.10:859][292]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.255
+[2019.05.01-05.53.19:422][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky' is outside repository
+[2019.05.01-05.53.19:422][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials' is outside repository
+[2019.05.01-05.53.19:422][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2019.05.01-05.53.19:422][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2019.05.01-05.53.19:422][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2019.05.01-05.53.19:422][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions' is outside repository
+[2019.05.01-05.53.19:758][121]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2019.05.01-05.53.19:758][121]SourceControl: Error: error: please commit or stash them.
+[2019.05.01-05.53.19:810][121]LogContentBrowser: Syncing 1 path(s):
+[2019.05.01-05.53.19:810][121]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.05.01-05.53.19:810][121]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2019.05.01-05.53.19:810][121]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.19:815][121]MapCheck: New page: Map Check
+[2019.05.01-05.53.19:815][121]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.19:840][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.05.01-05.53.19:841][121]LogAIModule: Creating AISystem for world Untitled
+[2019.05.01-05.53.19:956][121]LoadErrors: New page: New Map
+[2019.05.01-05.53.19:982][121]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.53.20:058][121]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.53.20:081][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.05.01-05.53.20:082][121]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.53.20:082][121]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.20:082][121]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.53.20:083][121]MapCheck: New page: Map Check
+[2019.05.01-05.53.20:083][121]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.20:104][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.05.01-05.53.20:313][121]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.53.20:337][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.05.01-05.53.20:361][121]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.53.20:361][121]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.05.01-05.53.20:361][121]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.281
+[2019.05.01-05.53.23:350][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky' is outside repository
+[2019.05.01-05.53.23:350][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials' is outside repository
+[2019.05.01-05.53.23:350][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2019.05.01-05.53.23:350][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2019.05.01-05.53.23:350][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2019.05.01-05.53.23:350][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions' is outside repository
+[2019.05.01-05.53.23:688][345]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2019.05.01-05.53.23:688][345]SourceControl: Error: error: please commit or stash them.
+[2019.05.01-05.53.23:740][345]LogContentBrowser: Syncing 1 path(s):
+[2019.05.01-05.53.23:740][345]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.05.01-05.53.23:740][345]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2019.05.01-05.53.23:740][345]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2019.05.01-05.53.23:740][345]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.23:741][345]MapCheck: New page: Map Check
+[2019.05.01-05.53.23:741][345]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.23:764][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.05.01-05.53.23:765][345]LogAIModule: Creating AISystem for world Untitled
+[2019.05.01-05.53.23:912][345]LoadErrors: New page: New Map
+[2019.05.01-05.53.23:914][345]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2019.05.01-05.53.23:992][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.05.01-05.53.24:024][345]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2019.05.01-05.53.24:143][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.05.01-05.53.24:217][345]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.53.24:290][345]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.53.24:310][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.05.01-05.53.24:311][345]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.53.24:311][345]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.24:312][345]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.53.24:312][345]MapCheck: New page: Map Check
+[2019.05.01-05.53.24:312][345]LightingResults: New page: Lighting Build
+[2019.05.01-05.53.24:334][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.05.01-05.53.24:601][345]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.53.24:623][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.05.01-05.53.24:642][345]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.53.24:643][345]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.05.01-05.53.24:643][345]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.333
