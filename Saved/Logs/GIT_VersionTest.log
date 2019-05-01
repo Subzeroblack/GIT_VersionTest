@@ -872,3 +872,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.00.26:712][894]SourceControl:  create mode 100644 Content/Devon_Test_Push/flat_550x550_075_f_u9.uasset
 [2019.05.01-05.00.26:712][894]SourceControl:  rewrite Content/StarterContent/Architecture/Floor_400x400.uasset (90%)
 [2019.05.01-05.00.26:717][894]SourceControl: Commited [DevonBranch 3bbc265] Added folder with picture.
+[2019.05.01-05.08.57:958][924]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\  Devon Youngbird\Desktop\daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d.png)
+[2019.05.01-05.08.57:994][924]LogTexture: Display: Building textures: daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d (BGRA8, 800X751)
+[2019.05.01-05.10.11:938][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.05.01-05.10.11:939][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.036
+[2019.05.01-05.10.12:255][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Devon_Other_Folder/daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d] ([1] browsable assets)...
+[2019.05.01-05.10.12:274][487]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Devon_Other_Folder/daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d.daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d]
+[2019.05.01-05.10.12:274][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devon_Other_Folder/daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d]
+[2019.05.01-05.10.12:302][487]LogSavePackage: Moving 'C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Saved/daje1y8-bc05f401-57a9-4859-affd-14CF7E7547488EEB0393CFADDB4E3ADE.tmp' to 'C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Saved/Autosaves/Game/Devon_Other_Folder/daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d_Auto1.uasset'
+[2019.05.01-05.10.12:303][487]LogFileHelpers: Auto-saving content packages took 0.364
+[2019.05.01-05.11.17:930][434]LogSavePackage: Moving 'C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Saved/daje1y8-bc05f401-57a9-4859-affd-D0E8C225433C6FDD930E1792CFE1EB98.tmp' to 'C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Content/Devon_Other_Folder/daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d.uasset'
+[2019.05.01-05.11.20:688][719]SourceControl: fatal: F:/Unreal/UE_4.22/Engine/Content: 'F:/Unreal/UE_4.22/Engine/Content' is outside repository
+[2019.05.01-05.11.31:167][719]LogSlate: Window 'Submit Files' being destroyed
+[2019.05.01-05.11.31:419][719]LogSourceControl: commit successful: [DevonBranch 05f04d0] added another folder with picture
+[2019.05.01-05.11.31:475][719]SourceControl: [DevonBranch 05f04d0] added another folder with picture
+[2019.05.01-05.11.31:475][719]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.05.01-05.11.31:475][719]SourceControl:  create mode 100644 Content/Devon_Other_Folder/daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d.uasset
+[2019.05.01-05.11.31:481][719]SourceControl: Commited [DevonBranch 05f04d0] added another folder with picture.
+[2019.05.01-05.14.58:497][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.05.01-05.15.00:397][445]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.01-05.15.00:499][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.05.01-05.15.03:129][749]SourceControl: fatal: F:/Unreal/UE_4.22/Engine/Content: 'F:/Unreal/UE_4.22/Engine/Content' is outside repository
+[2019.05.01-05.15.03:218][749]EditorErrors: Warning: No assets to check in!
