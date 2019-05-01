@@ -710,3 +710,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.54.30:758][103]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/TestMap.umap
 [2019.05.01-05.54.30:758][103]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/TestMap_BuiltData.uasset
 [2019.05.01-05.54.30:812][103]SourceControl: Commited [DevonBranch bba9b2d] Testmap.
+[2019.05.01-05.55.11:126][ 28]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.696 sec). This should never happen. Something is wrong with the timer delegate!
