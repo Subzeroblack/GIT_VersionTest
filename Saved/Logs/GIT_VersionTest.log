@@ -739,3 +739,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.52.12:046][321]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.05.01-05.52.12:046][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.182ms to complete.
 [2019.05.01-05.52.12:047][321]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.102
+[2019.05.01-05.57.40:065][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.57.56:966][346]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2019.05.01-05.57.58:667][346]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2019.05.01-05.58.04:354][616]LogSlate: Window 'ThirdPersonOverview' being destroyed
+[2019.05.01-05.58.04:358][616]LogSlate: Window 'ThirdPersonOverview' being destroyed
+[2019.05.01-05.58.16:213][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-05.58.16:822][976]LogAIModule: Creating AISystem for world TestMap
+[2019.05.01-05.58.16:828][976]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/TestMap.TestMap
+[2019.05.01-05.58.16:905][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.05.01-05.58.16:907][976]Cmd: MAP LOAD FILE="C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Content/ThirdPersonBP/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.58.16:907][976]LightingResults: New page: Lighting Build
+[2019.05.01-05.58.16:907][976]LoadErrors: New page: Loading map: TestMap.umap
+[2019.05.01-05.58.16:908][976]MapCheck: New page: Map Check
+[2019.05.01-05.58.16:908][976]LightingResults: New page: Lighting Build
+[2019.05.01-05.58.16:947][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.05.01-05.58.16:950][976]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.58.16:992][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.05.01-05.58.17:011][976]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.58.17:011][976]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.05.01-05.58.17:011][976]LogFileHelpers: Loading map 'TestMap' took 0.105
+[2019.05.01-05.58.19:525][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-05.58.19:671][276]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.58.19:778][276]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.58.19:814][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.05.01-05.58.19:815][276]Cmd: MAP LOAD FILE="C:/Users/  Devon Youngbird/Documents/GitHub/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.58.19:816][276]LightingResults: New page: Lighting Build
+[2019.05.01-05.58.19:816][276]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.58.19:817][276]MapCheck: New page: Map Check
+[2019.05.01-05.58.19:817][276]LightingResults: New page: Lighting Build
+[2019.05.01-05.58.19:855][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.05.01-05.58.19:860][276]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.58.19:902][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.05.01-05.58.19:922][276]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.58.19:923][276]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2019.05.01-05.58.19:923][276]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.108
+[2019.05.01-05.58.41:090][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
