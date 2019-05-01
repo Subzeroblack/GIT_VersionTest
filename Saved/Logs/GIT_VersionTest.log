@@ -896,3 +896,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.15.03:218][749]EditorErrors: Warning: No assets to check in!
 [2019.05.01-05.15.47:555][898]SourceControl: fatal: F:/Unreal/UE_4.22/Engine/Content: 'F:/Unreal/UE_4.22/Engine/Content' is outside repository
 [2019.05.01-05.15.47:643][898]EditorErrors: Warning: No assets to check in!
+[2019.05.01-05.19.16:601][744]SourceControl: Error: From https://github.com/Subzeroblack/GIT_VersionTest
+[2019.05.01-05.19.16:601][744]SourceControl: Error:  * branch            HEAD       -> FETCH_HEAD
+[2019.05.01-05.19.16:601][744]SourceControl: Error: error: unable to unlink old 'Saved/Logs/GIT_VersionTest.log': Invalid argument
+[2019.05.01-05.19.16:601][744]SourceControl: Error: fatal: Could not detach HEAD
+[2019.05.01-05.19.16:601][744]SourceControl: First, rewinding head to replay your work on top of it...
+[2019.05.01-05.19.16:604][744]LogContentBrowser: Syncing 1 path(s):
