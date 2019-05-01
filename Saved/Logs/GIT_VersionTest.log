@@ -813,3 +813,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-06.01.41:915][295]SourceControl: [DevonBranch 1894d1a] added sphere to test map
 [2019.05.01-06.01.41:915][295]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2019.05.01-06.01.41:921][295]SourceControl: Commited [DevonBranch 1894d1a] added sphere to test map.
+[2019.05.01-06.02.18:510][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.01-06.02.29:199][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
