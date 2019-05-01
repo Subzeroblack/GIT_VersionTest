@@ -559,3 +559,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.52.10:920][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2019.05.01-05.52.10:920][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
 [2019.05.01-05.52.10:922][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.05.01-05.52.47:164][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-05.52.51:824][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky' is outside repository
+[2019.05.01-05.52.51:824][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials' is outside repository
+[2019.05.01-05.52.51:824][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2019.05.01-05.52.51:824][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2019.05.01-05.52.51:824][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2019.05.01-05.52.51:824][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions' is outside repository
+[2019.05.01-05.52.52:158][754]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2019.05.01-05.52.52:158][754]SourceControl: Error: error: please commit or stash them.
+[2019.05.01-05.52.52:212][754]LogContentBrowser: Syncing 1 path(s):
+[2019.05.01-05.52.52:212][754]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2019.05.01-05.52.52:212][754]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2019.05.01-05.52.52:212][754]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.05.01-05.52.52:212][754]LightingResults: New page: Lighting Build
+[2019.05.01-05.52.52:214][754]MapCheck: New page: Map Check
+[2019.05.01-05.52.52:214][754]LightingResults: New page: Lighting Build
+[2019.05.01-05.52.52:241][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.05.01-05.52.52:244][754]LogAIModule: Creating AISystem for world Untitled
+[2019.05.01-05.52.52:301][754]LoadErrors: New page: New Map
+[2019.05.01-05.52.52:303][754]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2019.05.01-05.52.52:305][754]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-05.52.52:383][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.05.01-05.52.52:421][754]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2019.05.01-05.52.52:537][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.05.01-05.52.52:617][754]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.01-05.52.52:696][754]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.01-05.52.52:716][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.05.01-05.52.52:717][754]Cmd: MAP LOAD FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.52.52:717][754]LightingResults: New page: Lighting Build
+[2019.05.01-05.52.52:718][754]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.01-05.52.52:718][754]MapCheck: New page: Map Check
+[2019.05.01-05.52.52:718][754]LightingResults: New page: Lighting Build
+[2019.05.01-05.52.52:742][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.05.01-05.52.52:861][754]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.52.52:886][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.05.01-05.52.52:910][754]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.52.52:910][754]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.05.01-05.52.52:911][754]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.196
