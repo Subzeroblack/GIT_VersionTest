@@ -680,3 +680,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.53.24:642][345]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.05.01-05.53.24:643][345]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
 [2019.05.01-05.53.24:643][345]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.333
+[2019.05.01-05.54.08:685][363]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-05.54.08:739][363]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-05.54.08:808][363]LightingResults: New page: Lighting Build
+[2019.05.01-05.54.08:810][363]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.05.01-05.54.08:812][363]MapCheck: New page: Map Check
+[2019.05.01-05.54.08:812][363]LightingResults: New page: Lighting Build
+[2019.05.01-05.54.08:833][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.05.01-05.54.08:859][363]LogAIModule: Creating AISystem for world Untitled_6
+[2019.05.01-05.54.09:082][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-05.54.09:106][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.05.01-05.54.09:160][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-05.54.09:160][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2019.05.01-05.54.09:161][363]LogFileHelpers: Loading map 'Template_Default' took 0.422
+[2019.05.01-05.54.10:594][516]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2019.05.01-05.54.10:689][516]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-05.54.18:278][516]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.01-05.54.18:435][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.05.01-05.54.18:464][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.05.01-05.54.18:583][516]LogSavePackage: Moving '../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Saved/TestMap7271CF844D7D853B22E5A1B95408E979.tmp' to '../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/TestMap.umap'
+[2019.05.01-05.54.19:069][516]LogSavePackage: Moving '../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Saved/TestMap_BuiltData413F056A4FAAE63A8AF68D8B83C8307D.tmp' to '../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/ThirdPersonBP/Maps/TestMap_BuiltData.uasset'
+[2019.05.01-05.54.19:419][516]LogFileHelpers: Saving map 'TestMap' took 1.084
+[2019.05.01-05.54.19:628][537]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2019.05.01-05.54.24:992][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.05.01-05.54.30:191][103]LogSlate: Window 'Submit Files' being destroyed
+[2019.05.01-05.54.30:700][103]LogSourceControl: commit successful: [DevonBranch bba9b2d] Testmap
+[2019.05.01-05.54.30:758][103]SourceControl: [DevonBranch bba9b2d] Testmap
+[2019.05.01-05.54.30:758][103]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2019.05.01-05.54.30:758][103]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/TestMap.umap
+[2019.05.01-05.54.30:758][103]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/TestMap_BuiltData.uasset
+[2019.05.01-05.54.30:812][103]SourceControl: Commited [DevonBranch bba9b2d] Testmap.
