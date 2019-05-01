@@ -2417,3 +2417,16 @@ Script Stack (0 frames):
 [2019.05.01-05.03.24:330][745]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (34.764 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.05.01-05.03.29:318][170]Cmd: SELECT NONE
 [2019.05.01-05.03.31:249][386]LogSlate: Window 'Source Control Login' being destroyed
+[2019.05.01-05.09.10:527][352]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.05.01-05.09.10:684][352]EditorErrors: Warning: No assets to check in!
+[2019.05.01-05.09.13:962][688]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Actor3.BP_Actor3
+[2019.05.01-05.09.15:703][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Actor3" FILE="../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/Blueprints/BP_Actor3.uasset" SILENT=true
+[2019.05.01-05.09.15:716][783]LogSavePackage: Moving '../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Saved/BP_Actor310E427CA42AA8DD1459D72AD881001C1.tmp' to '../../../../../../Users/Marti/Documents/Unreal Projects/GIT_VersionTest/Content/Blueprints/BP_Actor3.uasset'
+[2019.05.01-05.09.16:581][840]LogSlate: Window 'BP_Actor3' being destroyed
+[2019.05.01-05.09.19:840][142]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.05.01-05.09.27:290][142]LogSlate: Window 'Submit Files' being destroyed
+[2019.05.01-05.09.27:753][142]LogSourceControl: commit successful: [Jake-Branch 68cc094] BP_Actor3
+[2019.05.01-05.09.27:809][142]SourceControl: [Jake-Branch 68cc094] BP_Actor3
+[2019.05.01-05.09.27:809][142]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.05.01-05.09.27:809][142]SourceControl:  create mode 100644 Content/Blueprints/BP_Actor3.uasset
+[2019.05.01-05.09.27:865][142]SourceControl: Commited [Jake-Branch 68cc094] BP_Actor3.
