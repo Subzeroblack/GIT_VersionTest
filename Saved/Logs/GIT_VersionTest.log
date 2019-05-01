@@ -926,3 +926,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-05.37.44:306][708]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.05.01-05.37.44:306][708]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
 [2019.05.01-05.37.44:307][708]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.286
+[2019.05.01-05.41.15:602][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.16:806][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.17:268][206]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.01-05.41.23:509][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.23:910][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.26:733][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-05.41.29:268][431]LogSlate: Window 'Plugins' being destroyed
+[2019.05.01-05.41.29:319][431]LogSlate: Window 'Plugins' being destroyed
+[2019.05.01-05.41.29:319][431]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.05.01-05.44.49:117][409]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
